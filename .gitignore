@@ -1,0 +1,13 @@
+bin/
+obj/
+etc/
+*.pdf
+*.pptx
+*.ppt
+*.layout
+*.depend
+*.cbp
+*.png
+*.jpg
+*.zip
+*.rar
